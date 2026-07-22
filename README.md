@@ -1,5 +1,7 @@
 # hailo-colab: Deploy Your Custom Object Detection Model on Raspberry Pi 5 with Hailo-8L AI Kit
 
+This project was developed 2 years ago and is no longer actively maintained or up to date. The code and instructions below are preserved for historical reference only. Feel free to reference the materials below, but be aware that dependencies or Colab workflows require updates.
+
 **Key Benefit:** Train your model entirely within a Google Colab notebook environment, eliminating the need for a local NVIDIA GPU or x86 processor.
 
 ## 1. From Dataset to YOLO11 ONNX file
